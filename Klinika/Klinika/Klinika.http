@@ -1,0 +1,6 @@
+@Klinika_HostAddress = http://localhost:5278
+
+GET {{Klinika_HostAddress}}
+Accept: application/json
+
+###
